@@ -1,2 +1,2 @@
 # PyStudentApp
-Python app that Manages student information
+Python app that Manages student information.
